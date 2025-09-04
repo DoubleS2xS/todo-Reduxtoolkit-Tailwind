@@ -1,8 +1,6 @@
 # 📝 Modern Todo App
 A sleek, responsive, and feature‑rich Todo application built from scratch using Redux Toolkit and Tailwind CSS. Track your tasks effortlessly with real‑time progress updates, item counts, and a clean, modern UI.
 
-## Demo
-
 ## 🚀 Overview
 This project is designed to demonstrate state management best practices with Redux Toolkit and utility‑first styling with Tailwind CSS. It’s more than just a basic todo list — it includes live progress tracking, task filtering, and clear visual feedback for productivity.
 ## ✨ Features
